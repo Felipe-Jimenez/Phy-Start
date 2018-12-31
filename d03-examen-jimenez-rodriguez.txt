@@ -1,0 +1,19 @@
+E El Sys32 del Tamal
+
+#Personal
+P 01 Nadia
+P 02 Felipe
+P 03 Manue
+
+#Articulo ID/$/Can/nombre
+A 01 10 20 Agua 1l
+A 02 20 20 MilkyWay
+A 03 30 20 Caguama Corona
+A 04 15 20 Donitas Bimbo
+A 05 16 20 Corona Clara
+A 06 50 20 Marlboro
+A 07 17 15 Chicharron
+A 08 10 14 Agua Mineral 1l
+A 09 15 16 Squirt 1l
+A 10 25 10 Bolsa de Hielo
+A 11 20 10 Tonayan 455ml
